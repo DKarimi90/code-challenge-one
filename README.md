@@ -1,7 +1,7 @@
 # My First Code Challenge @ Moringa School
 
 ## Goals
--Assessing my learning progress (technical skills) so far 
+-Assessing my learning progress (technical skills) so far <br>
 -Complying with the Institution’s academic requirements 
 
 ## Project Description  
