@@ -16,10 +16,10 @@ The challenge entailed writing a program that take as input the speed of a car (
 For instance, if the speed is 75km/hr, the program should print: “Points: 1”. If the driver gets more than 12 points, the program should print: “License suspended”. 
 
 ### Third Challenge: Net Salary Calculator (Toy Problem)
-In the third challenge, I was to develop a program whose major task is to calculate an individual’s Net Salary by getting the inputs of basic salary and benefits. Calculate the payee (i.e Tax2), NHIF Deductions, NSSF Deductions, gross salary, and net salary. 
+In the third challenge, I was to develop a program whose major task is to calculate an individual’s Net Salary by getting the inputs of basic salary and benefits. Calculate the paye (i.e Tax2), NHIF Deductions, NSSF Deductions, gross salary, and net salary. 
 
 ##### Values to use in the `Third Challenge` are obtained from: 
-https://www.aren.co.ke/payroll/taxrates.htm
+https://www.aren.co.ke/payroll/taxrates.htm <br>
 https://www.kra.go.ke/en/individual/calculate-tax/calculating-tax/paye
 
 ## Author 
