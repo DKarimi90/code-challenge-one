@@ -1,4 +1,4 @@
-#My First Code Challenge @ Moringa School
+# My First Code Challenge @ Moringa School
 
 ## Goals
 -Assessing my learning progress (technical skills) so far 
